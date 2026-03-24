@@ -39,7 +39,11 @@ source venv/bin/activate  # On Windows use: venv\Scripts\activate
 ```
 
 3. **Install dependencies:**
-   ```pip install -r requirements.txt```
+   ```
+   pip install -r requirements.txt
+   
+   ```
+   
 4.**Set up Environment Variables:**
   Create a .env file in the root directory and add your API keys:
 ```
