@@ -10,6 +10,8 @@ An autonomous, multi-agent workflow built with **LangGraph** and **Streamlit** t
 This project utilizes a graph-based state machine to manage complex LLM interactions. Instead of relying on a single prompt, the application routes tasks through specialized agents:
 <img width="120" height="505" alt="image" src="https://github.com/user-attachments/assets/fae8427d-7f47-46de-91e2-080dc0f43989" />
 
+
+
 - A **Router** determines if external internet research is required.
 - A **Researcher** fetches real-time context using the Tavily Search API.
 - An **Orchestrator** develops a comprehensive content plan and breaks it down into sub-tasks.
