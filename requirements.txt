@@ -1,0 +1,17 @@
+# Web Framework
+streamlit
+
+# LangChain & LangGraph Ecosystem
+langgraph
+langchain
+langchain-openai
+langchain-community
+
+# External APIs & Tools
+google-genai
+tavily-python
+
+# Utilities
+python-dotenv
+pydantic
+pillow
